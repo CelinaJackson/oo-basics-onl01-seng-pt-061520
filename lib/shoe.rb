@@ -34,4 +34,4 @@ class Shoe
   end
 end
 
-shoe.new("Nike")
+shoe.condition("new")
